@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/card-app/static/css/main.7a58d3eb.css",
+    "main.js": "/card-app/static/js/main.01df642d.js",
+    "static/js/787.4559ef90.chunk.js": "/card-app/static/js/787.4559ef90.chunk.js",
+    "static/media/news-2.jpg": "/card-app/static/media/news-2.67db6c474a828bd7a0cd.jpg",
+    "static/media/news-3.jpg": "/card-app/static/media/news-3.89b8315141d75bd31ced.jpg",
+    "static/media/news-5.jpg": "/card-app/static/media/news-5.28ea761e88293ca4d821.jpg",
+    "static/media/news-1.jpg": "/card-app/static/media/news-1.a3848a1189e2114e1b47.jpg",
+    "static/media/default1.jpg": "/card-app/static/media/default1.d1d223df06e0bdce6449.jpg",
+    "static/media/slick.svg": "/card-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/card-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/card-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/card-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/card-app/index.html",
+    "main.7a58d3eb.css.map": "/card-app/static/css/main.7a58d3eb.css.map",
+    "main.01df642d.js.map": "/card-app/static/js/main.01df642d.js.map",
+    "787.4559ef90.chunk.js.map": "/card-app/static/js/787.4559ef90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a58d3eb.css",
+    "static/js/main.01df642d.js"
+  ]
+}
